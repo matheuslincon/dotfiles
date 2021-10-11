@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = matheuslincon50@gmail.com
+	name = Matheus Andrade
